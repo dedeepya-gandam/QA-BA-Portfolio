@@ -1,0 +1,501 @@
+OrderID,OrderDate,CustomerName,Product,Category,Quantity,UnitPrice,Cost,City,State
+1,2023-01-21,Customer 1006,Socks,Apparel,5,34.0,24.47,San Antonio,Texas
+2,2023-04-14,Customer 1002,Jeans,Apparel,3,107.0,64.21,Austin,Texas
+3,2023-02-07,Customer 1001,Jacket,Apparel,2,107.0,80.22,Plano,Texas
+4,2023-03-30,Customer 1016,Bag,Accessories,1,77.0,50.62,Plano,Texas
+5,2023-06-24,Customer 1018,Shoes,Footwear,2,34.0,21.65,Austin,Texas
+6,2023-05-15,Customer 1008,Bag,Accessories,1,150.0,113.7,San Antonio,Texas
+7,2023-01-09,Customer 1001,Socks,Apparel,4,108.0,85.29,Dallas,Texas
+8,2023-03-22,Customer 1003,Bag,Accessories,4,27.0,13.78,San Antonio,Texas
+9,2023-02-23,Customer 1017,Jeans,Apparel,2,73.0,48.47,San Antonio,Texas
+10,2023-01-15,Customer 1007,Jeans,Apparel,2,33.0,23.7,San Antonio,Texas
+11,2023-03-23,Customer 1014,Jacket,Apparel,1,59.0,44.45,San Antonio,Texas
+12,2023-06-06,Customer 1014,Watch,Accessories,1,143.0,83.34,Dallas,Texas
+13,2023-05-09,Customer 1011,Watch,Accessories,1,90.0,56.43,Houston,Texas
+14,2023-06-12,Customer 1000,Socks,Apparel,3,100.0,71.34,Austin,Texas
+15,2023-03-13,Customer 1011,Shoes,Footwear,2,60.0,46.47,Plano,Texas
+16,2023-02-04,Customer 1000,Jeans,Apparel,5,118.0,79.93,Houston,Texas
+17,2023-05-22,Customer 1006,Shoes,Footwear,3,20.0,14.33,Plano,Texas
+18,2023-06-28,Customer 1006,Shoes,Footwear,2,61.0,38.54,Houston,Texas
+19,2023-05-31,Customer 1006,Shirt,Apparel,5,115.0,81.5,San Antonio,Texas
+20,2023-03-12,Customer 1018,Watch,Accessories,5,55.0,43.06,Austin,Texas
+21,2023-05-14,Customer 1011,Jacket,Apparel,2,64.0,37.68,San Antonio,Texas
+22,2023-04-02,Customer 1006,Bag,Accessories,3,147.0,109.11,San Antonio,Texas
+23,2023-05-01,Customer 1019,Jacket,Apparel,1,140.0,97.2,Houston,Texas
+24,2023-06-04,Customer 1008,Watch,Accessories,3,122.0,67.03,Houston,Texas
+25,2023-06-01,Customer 1014,Jacket,Apparel,1,70.0,40.66,Plano,Texas
+26,2023-02-21,Customer 1011,Shoes,Footwear,4,132.0,68.57,Houston,Texas
+27,2023-03-22,Customer 1016,Jacket,Apparel,3,132.0,71.86,Dallas,Texas
+28,2023-05-09,Customer 1018,Jeans,Apparel,4,73.0,37.22,Dallas,Texas
+29,2023-05-03,Customer 1016,Jacket,Apparel,5,87.0,45.61,Dallas,Texas
+30,2023-05-19,Customer 1015,Socks,Apparel,4,117.0,80.74,Plano,Texas
+31,2023-01-03,Customer 1019,Shirt,Apparel,4,89.0,63.08,Houston,Texas
+32,2023-05-27,Customer 1019,Bag,Accessories,4,109.0,71.25,Austin,Texas
+33,2023-04-14,Customer 1000,Socks,Apparel,1,147.0,96.33,San Antonio,Texas
+34,2023-05-24,Customer 1015,Shoes,Footwear,1,61.0,35.22,San Antonio,Texas
+35,2023-02-17,Customer 1011,Shirt,Apparel,4,132.0,75.58,San Antonio,Texas
+36,2023-05-27,Customer 1015,Watch,Accessories,3,28.0,16.34,Plano,Texas
+37,2023-06-13,Customer 1005,Shoes,Footwear,1,135.0,70.91,San Antonio,Texas
+38,2023-05-26,Customer 1013,Bag,Accessories,1,118.0,93.47,Austin,Texas
+39,2023-01-21,Customer 1015,Jeans,Apparel,3,87.0,49.69,Dallas,Texas
+40,2023-04-25,Customer 1013,Bag,Accessories,1,147.0,98.56,Austin,Texas
+41,2023-01-21,Customer 1000,Jacket,Apparel,3,27.0,18.61,Plano,Texas
+42,2023-01-04,Customer 1002,Bag,Accessories,5,80.0,51.98,Houston,Texas
+43,2023-04-09,Customer 1008,Shirt,Apparel,4,65.0,50.34,Houston,Texas
+44,2023-04-09,Customer 1000,Watch,Accessories,1,65.0,51.35,Plano,Texas
+45,2023-01-25,Customer 1009,Bag,Accessories,5,86.0,47.37,Plano,Texas
+46,2023-04-24,Customer 1014,Socks,Apparel,3,123.0,64.1,Dallas,Texas
+47,2023-04-14,Customer 1000,Jacket,Apparel,3,149.0,88.92,Dallas,Texas
+48,2023-06-02,Customer 1012,Shirt,Apparel,5,45.0,33.44,Austin,Texas
+49,2023-03-06,Customer 1007,Bag,Accessories,1,55.0,40.67,Dallas,Texas
+50,2023-02-01,Customer 1018,Jacket,Apparel,3,111.0,74.78,San Antonio,Texas
+51,2023-02-18,Customer 1019,Shirt,Apparel,5,77.0,58.38,Dallas,Texas
+52,2023-02-22,Customer 1011,Jeans,Apparel,4,120.0,78.8,Austin,Texas
+53,2023-04-26,Customer 1014,Bag,Accessories,4,25.0,12.89,Plano,Texas
+54,2023-06-07,Customer 1018,Shoes,Footwear,5,133.0,87.1,San Antonio,Texas
+55,2023-04-27,Customer 1008,Shirt,Apparel,4,77.0,40.31,Austin,Texas
+56,2023-02-03,Customer 1015,Bag,Accessories,1,77.0,59.64,Plano,Texas
+57,2023-03-10,Customer 1002,Shirt,Apparel,5,148.0,116.4,Plano,Texas
+58,2023-03-10,Customer 1014,Bag,Accessories,3,105.0,52.95,Dallas,Texas
+59,2023-02-02,Customer 1004,Shirt,Apparel,5,104.0,66.77,San Antonio,Texas
+60,2023-06-29,Customer 1009,Socks,Apparel,2,88.0,67.41,Dallas,Texas
+61,2023-03-10,Customer 1012,Jeans,Apparel,2,115.0,87.05,Austin,Texas
+62,2023-03-25,Customer 1011,Bag,Accessories,1,147.0,101.57,Dallas,Texas
+63,2023-06-28,Customer 1010,Jeans,Apparel,4,52.0,33.15,Austin,Texas
+64,2023-03-15,Customer 1010,Watch,Accessories,3,84.0,66.22,San Antonio,Texas
+65,2023-05-10,Customer 1018,Bag,Accessories,5,31.0,16.44,Plano,Texas
+66,2023-06-03,Customer 1009,Jeans,Apparel,1,109.0,64.93,Austin,Texas
+67,2023-02-27,Customer 1017,Jeans,Apparel,3,124.0,80.45,Dallas,Texas
+68,2023-01-21,Customer 1003,Watch,Accessories,5,139.0,100.15,Austin,Texas
+69,2023-04-06,Customer 1004,Jeans,Apparel,1,118.0,73.61,Plano,Texas
+70,2023-04-15,Customer 1016,Bag,Accessories,5,42.0,30.51,Houston,Texas
+71,2023-01-19,Customer 1016,Shirt,Apparel,1,105.0,61.88,San Antonio,Texas
+72,2023-01-28,Customer 1013,Bag,Accessories,5,95.0,57.61,San Antonio,Texas
+73,2023-03-10,Customer 1002,Socks,Apparel,3,130.0,68.25,San Antonio,Texas
+74,2023-02-22,Customer 1015,Bag,Accessories,4,142.0,80.06,Houston,Texas
+75,2023-05-22,Customer 1004,Shirt,Apparel,5,61.0,48.33,Plano,Texas
+76,2023-03-17,Customer 1008,Shoes,Footwear,3,94.0,50.3,Plano,Texas
+77,2023-06-17,Customer 1009,Jeans,Apparel,4,26.0,16.32,Dallas,Texas
+78,2023-01-29,Customer 1004,Shirt,Apparel,3,141.0,76.7,Dallas,Texas
+79,2023-05-25,Customer 1006,Jacket,Apparel,5,84.0,64.19,Austin,Texas
+80,2023-06-08,Customer 1018,Shirt,Apparel,4,55.0,33.71,Plano,Texas
+81,2023-05-06,Customer 1002,Watch,Accessories,3,109.0,65.3,San Antonio,Texas
+82,2023-03-02,Customer 1008,Watch,Accessories,2,145.0,74.95,Plano,Texas
+83,2023-04-23,Customer 1000,Socks,Apparel,3,111.0,87.54,Houston,Texas
+84,2023-06-22,Customer 1014,Jacket,Apparel,2,63.0,49.98,Plano,Texas
+85,2023-02-16,Customer 1008,Watch,Accessories,3,39.0,20.38,Plano,Texas
+86,2023-05-24,Customer 1010,Shirt,Apparel,5,73.0,49.3,Houston,Texas
+87,2023-04-02,Customer 1003,Bag,Accessories,4,136.0,79.32,Dallas,Texas
+88,2023-02-10,Customer 1003,Jeans,Apparel,4,47.0,24.6,Dallas,Texas
+89,2023-05-14,Customer 1017,Shoes,Footwear,1,65.0,33.99,Houston,Texas
+90,2023-04-19,Customer 1004,Shoes,Footwear,1,29.0,22.61,Plano,Texas
+91,2023-03-04,Customer 1016,Socks,Apparel,1,30.0,20.35,Houston,Texas
+92,2023-05-09,Customer 1015,Watch,Accessories,2,124.0,77.43,Houston,Texas
+93,2023-01-03,Customer 1004,Socks,Apparel,1,114.0,82.65,San Antonio,Texas
+94,2023-03-19,Customer 1008,Watch,Accessories,2,102.0,58.57,Plano,Texas
+95,2023-04-23,Customer 1007,Jacket,Apparel,3,23.0,13.08,Houston,Texas
+96,2023-02-19,Customer 1011,Jeans,Apparel,2,137.0,102.67,San Antonio,Texas
+97,2023-02-16,Customer 1014,Shirt,Apparel,5,76.0,51.45,San Antonio,Texas
+98,2023-06-15,Customer 1001,Watch,Accessories,2,94.0,53.01,Plano,Texas
+99,2023-04-01,Customer 1018,Jacket,Apparel,2,101.0,62.38,Dallas,Texas
+100,2023-04-16,Customer 1018,Socks,Apparel,4,98.0,60.66,Dallas,Texas
+101,2023-03-25,Customer 1004,Shirt,Apparel,5,93.0,67.95,Plano,Texas
+102,2023-04-25,Customer 1014,Jeans,Apparel,2,145.0,100.05,Plano,Texas
+103,2023-01-25,Customer 1002,Shirt,Apparel,4,123.0,87.2,Austin,Texas
+104,2023-05-27,Customer 1004,Shoes,Footwear,5,80.0,44.61,Austin,Texas
+105,2023-03-11,Customer 1000,Jeans,Apparel,2,80.0,40.76,San Antonio,Texas
+106,2023-06-26,Customer 1013,Watch,Accessories,4,109.0,83.74,Houston,Texas
+107,2023-02-16,Customer 1014,Jeans,Apparel,3,92.0,48.55,Plano,Texas
+108,2023-01-01,Customer 1007,Jacket,Apparel,5,100.0,58.31,Austin,Texas
+109,2023-01-14,Customer 1013,Shirt,Apparel,5,66.0,40.34,Austin,Texas
+110,2023-04-25,Customer 1006,Jeans,Apparel,2,33.0,17.96,Plano,Texas
+111,2023-04-25,Customer 1014,Shoes,Footwear,4,37.0,23.47,Austin,Texas
+112,2023-03-27,Customer 1011,Shirt,Apparel,4,58.0,34.6,Plano,Texas
+113,2023-03-08,Customer 1008,Shirt,Apparel,5,44.0,30.96,Houston,Texas
+114,2023-04-21,Customer 1007,Watch,Accessories,4,130.0,93.74,Dallas,Texas
+115,2023-01-06,Customer 1019,Shirt,Apparel,3,61.0,35.69,San Antonio,Texas
+116,2023-05-01,Customer 1000,Jeans,Apparel,3,78.0,62.08,Dallas,Texas
+117,2023-03-03,Customer 1008,Watch,Accessories,4,113.0,62.82,Plano,Texas
+118,2023-02-05,Customer 1005,Socks,Apparel,3,50.0,31.16,Austin,Texas
+119,2023-05-14,Customer 1016,Jeans,Apparel,4,94.0,71.41,San Antonio,Texas
+120,2023-01-26,Customer 1018,Jacket,Apparel,1,98.0,64.73,Austin,Texas
+121,2023-03-09,Customer 1018,Watch,Accessories,5,89.0,70.35,San Antonio,Texas
+122,2023-01-01,Customer 1013,Bag,Accessories,4,132.0,86.98,Houston,Texas
+123,2023-01-03,Customer 1000,Jacket,Apparel,3,119.0,70.95,Plano,Texas
+124,2023-06-21,Customer 1001,Jacket,Apparel,2,24.0,12.46,Dallas,Texas
+125,2023-03-14,Customer 1016,Watch,Accessories,4,84.0,45.5,Dallas,Texas
+126,2023-03-10,Customer 1011,Shirt,Apparel,3,113.0,60.12,Austin,Texas
+127,2023-01-01,Customer 1007,Jeans,Apparel,3,95.0,58.31,Plano,Texas
+128,2023-01-14,Customer 1002,Jacket,Apparel,5,91.0,68.1,San Antonio,Texas
+129,2023-06-03,Customer 1003,Watch,Accessories,5,102.0,71.36,Plano,Texas
+130,2023-03-13,Customer 1006,Shirt,Apparel,2,108.0,76.13,Plano,Texas
+131,2023-05-23,Customer 1000,Jacket,Apparel,5,116.0,84.02,Austin,Texas
+132,2023-06-28,Customer 1006,Shirt,Apparel,1,72.0,55.58,Houston,Texas
+133,2023-01-15,Customer 1014,Shoes,Footwear,3,61.0,33.05,Austin,Texas
+134,2023-06-04,Customer 1000,Watch,Accessories,4,57.0,41.37,Houston,Texas
+135,2023-03-15,Customer 1000,Jacket,Apparel,2,29.0,18.8,San Antonio,Texas
+136,2023-01-15,Customer 1007,Jacket,Apparel,4,128.0,68.9,Plano,Texas
+137,2023-06-04,Customer 1018,Watch,Accessories,4,95.0,69.5,Plano,Texas
+138,2023-03-10,Customer 1019,Shoes,Footwear,4,45.0,25.9,San Antonio,Texas
+139,2023-05-21,Customer 1007,Shoes,Footwear,2,65.0,44.49,Dallas,Texas
+140,2023-06-20,Customer 1011,Jacket,Apparel,1,130.0,93.32,Dallas,Texas
+141,2023-05-07,Customer 1009,Bag,Accessories,4,139.0,70.46,San Antonio,Texas
+142,2023-02-09,Customer 1008,Shirt,Apparel,2,70.0,50.47,San Antonio,Texas
+143,2023-03-31,Customer 1013,Jacket,Apparel,1,65.0,37.1,Austin,Texas
+144,2023-04-25,Customer 1007,Bag,Accessories,1,82.0,48.66,Houston,Texas
+145,2023-06-29,Customer 1008,Socks,Apparel,1,72.0,43.24,Plano,Texas
+146,2023-05-10,Customer 1006,Shoes,Footwear,1,109.0,84.58,San Antonio,Texas
+147,2023-06-20,Customer 1011,Jeans,Apparel,2,110.0,69.92,Austin,Texas
+148,2023-01-29,Customer 1010,Shoes,Footwear,1,107.0,63.5,Austin,Texas
+149,2023-03-22,Customer 1019,Jacket,Apparel,4,133.0,92.98,Dallas,Texas
+150,2023-03-04,Customer 1007,Shirt,Apparel,4,137.0,103.87,Houston,Texas
+151,2023-03-03,Customer 1016,Shirt,Apparel,5,142.0,105.07,Houston,Texas
+152,2023-04-25,Customer 1014,Watch,Accessories,3,37.0,21.76,Plano,Texas
+153,2023-06-15,Customer 1018,Jeans,Apparel,4,132.0,81.87,Dallas,Texas
+154,2023-04-13,Customer 1002,Socks,Apparel,1,27.0,20.48,San Antonio,Texas
+155,2023-03-28,Customer 1017,Jeans,Apparel,3,129.0,84.88,Dallas,Texas
+156,2023-03-13,Customer 1014,Socks,Apparel,1,76.0,43.06,Plano,Texas
+157,2023-01-08,Customer 1001,Watch,Accessories,3,116.0,77.37,Austin,Texas
+158,2023-01-07,Customer 1009,Shoes,Footwear,4,74.0,56.9,Austin,Texas
+159,2023-02-05,Customer 1017,Socks,Apparel,5,131.0,72.63,Houston,Texas
+160,2023-05-10,Customer 1002,Jeans,Apparel,5,30.0,17.33,Houston,Texas
+161,2023-05-17,Customer 1001,Socks,Apparel,4,24.0,14.49,San Antonio,Texas
+162,2023-03-22,Customer 1009,Watch,Accessories,3,105.0,77.06,San Antonio,Texas
+163,2023-01-14,Customer 1008,Jacket,Apparel,1,133.0,67.4,Austin,Texas
+164,2023-01-22,Customer 1010,Jeans,Apparel,1,122.0,68.98,Plano,Texas
+165,2023-02-06,Customer 1010,Jacket,Apparel,2,48.0,26.47,San Antonio,Texas
+166,2023-06-15,Customer 1001,Jacket,Apparel,5,61.0,41.05,Dallas,Texas
+167,2023-04-27,Customer 1009,Shirt,Apparel,1,141.0,100.96,Plano,Texas
+168,2023-06-17,Customer 1001,Jacket,Apparel,3,76.0,44.08,Plano,Texas
+169,2023-06-22,Customer 1016,Bag,Accessories,1,72.0,39.79,Plano,Texas
+170,2023-05-10,Customer 1010,Jeans,Apparel,4,141.0,88.35,Plano,Texas
+171,2023-01-29,Customer 1010,Shirt,Apparel,5,55.0,40.22,Austin,Texas
+172,2023-02-23,Customer 1001,Shoes,Footwear,1,58.0,39.62,San Antonio,Texas
+173,2023-03-22,Customer 1012,Socks,Apparel,1,55.0,36.41,Plano,Texas
+174,2023-01-17,Customer 1000,Shoes,Footwear,1,92.0,48.07,Dallas,Texas
+175,2023-02-08,Customer 1002,Shirt,Apparel,3,123.0,77.55,Plano,Texas
+176,2023-04-12,Customer 1001,Shoes,Footwear,5,127.0,89.97,Dallas,Texas
+177,2023-02-18,Customer 1016,Bag,Accessories,5,63.0,46.76,Austin,Texas
+178,2023-03-21,Customer 1018,Jeans,Apparel,1,66.0,34.72,Houston,Texas
+179,2023-01-25,Customer 1017,Socks,Apparel,1,137.0,94.69,Plano,Texas
+180,2023-02-01,Customer 1009,Shirt,Apparel,3,128.0,89.72,San Antonio,Texas
+181,2023-01-14,Customer 1014,Socks,Apparel,2,105.0,81.34,Houston,Texas
+182,2023-03-23,Customer 1019,Watch,Accessories,3,91.0,72.01,Houston,Texas
+183,2023-06-08,Customer 1002,Socks,Apparel,2,122.0,62.35,Austin,Texas
+184,2023-06-20,Customer 1007,Bag,Accessories,5,117.0,89.56,San Antonio,Texas
+185,2023-06-02,Customer 1012,Jeans,Apparel,1,23.0,16.96,San Antonio,Texas
+186,2023-02-24,Customer 1002,Jeans,Apparel,5,127.0,72.38,Houston,Texas
+187,2023-06-09,Customer 1002,Jeans,Apparel,3,32.0,21.08,Dallas,Texas
+188,2023-01-16,Customer 1011,Shoes,Footwear,5,81.0,52.16,San Antonio,Texas
+189,2023-03-06,Customer 1016,Socks,Apparel,2,122.0,80.12,Houston,Texas
+190,2023-02-06,Customer 1015,Shoes,Footwear,2,87.0,62.18,Plano,Texas
+191,2023-05-20,Customer 1004,Shirt,Apparel,1,68.0,41.99,Plano,Texas
+192,2023-03-04,Customer 1013,Watch,Accessories,3,143.0,89.41,Plano,Texas
+193,2023-03-13,Customer 1019,Shoes,Footwear,2,71.0,36.88,Plano,Texas
+194,2023-02-26,Customer 1008,Watch,Accessories,3,129.0,73.43,Plano,Texas
+195,2023-01-05,Customer 1014,Shirt,Apparel,3,139.0,84.1,Dallas,Texas
+196,2023-03-02,Customer 1009,Socks,Apparel,1,118.0,80.14,Houston,Texas
+197,2023-01-03,Customer 1002,Shoes,Footwear,2,81.0,64.71,Dallas,Texas
+198,2023-05-22,Customer 1004,Jacket,Apparel,5,108.0,73.21,Plano,Texas
+199,2023-01-29,Customer 1008,Jeans,Apparel,1,86.0,50.04,Austin,Texas
+200,2023-02-09,Customer 1004,Shoes,Footwear,2,95.0,48.51,Houston,Texas
+201,2023-03-13,Customer 1004,Shoes,Footwear,2,143.0,87.49,Austin,Texas
+202,2023-01-28,Customer 1004,Jeans,Apparel,5,79.0,42.09,Dallas,Texas
+203,2023-03-03,Customer 1018,Watch,Accessories,2,59.0,45.13,Houston,Texas
+204,2023-02-02,Customer 1005,Jeans,Apparel,2,59.0,39.51,Austin,Texas
+205,2023-06-18,Customer 1012,Shoes,Footwear,1,78.0,59.29,San Antonio,Texas
+206,2023-06-15,Customer 1006,Shoes,Footwear,1,119.0,81.58,Plano,Texas
+207,2023-01-31,Customer 1009,Watch,Accessories,5,77.0,49.25,Austin,Texas
+208,2023-04-10,Customer 1001,Jeans,Apparel,5,58.0,31.8,Austin,Texas
+209,2023-01-13,Customer 1013,Jacket,Apparel,5,31.0,15.56,Plano,Texas
+210,2023-04-08,Customer 1012,Shoes,Footwear,1,36.0,19.25,Houston,Texas
+211,2023-03-20,Customer 1004,Shoes,Footwear,2,82.0,50.65,Austin,Texas
+212,2023-03-09,Customer 1016,Watch,Accessories,4,115.0,84.09,San Antonio,Texas
+213,2023-04-30,Customer 1017,Bag,Accessories,2,137.0,82.72,Houston,Texas
+214,2023-01-29,Customer 1010,Jeans,Apparel,4,144.0,88.57,Plano,Texas
+215,2023-06-23,Customer 1001,Shirt,Apparel,3,77.0,38.52,Austin,Texas
+216,2023-02-08,Customer 1014,Watch,Accessories,1,118.0,74.98,San Antonio,Texas
+217,2023-05-10,Customer 1014,Socks,Apparel,5,94.0,53.23,Plano,Texas
+218,2023-05-06,Customer 1011,Jacket,Apparel,3,46.0,34.98,San Antonio,Texas
+219,2023-03-25,Customer 1005,Bag,Accessories,5,66.0,41.31,Plano,Texas
+220,2023-02-27,Customer 1005,Shoes,Footwear,5,150.0,89.04,Houston,Texas
+221,2023-01-24,Customer 1011,Socks,Apparel,5,83.0,63.12,Dallas,Texas
+222,2023-05-25,Customer 1007,Jeans,Apparel,3,91.0,49.85,San Antonio,Texas
+223,2023-06-21,Customer 1002,Socks,Apparel,2,150.0,110.86,Austin,Texas
+224,2023-01-09,Customer 1005,Bag,Accessories,1,145.0,102.32,Houston,Texas
+225,2023-03-13,Customer 1010,Shirt,Apparel,5,136.0,92.08,San Antonio,Texas
+226,2023-03-23,Customer 1013,Watch,Accessories,5,37.0,26.05,Houston,Texas
+227,2023-06-18,Customer 1007,Socks,Apparel,5,52.0,40.86,Austin,Texas
+228,2023-06-09,Customer 1014,Shoes,Footwear,1,95.0,75.62,Austin,Texas
+229,2023-02-02,Customer 1008,Jacket,Apparel,4,116.0,76.02,San Antonio,Texas
+230,2023-04-13,Customer 1001,Watch,Accessories,5,135.0,81.99,Houston,Texas
+231,2023-02-18,Customer 1007,Jacket,Apparel,2,125.0,68.78,Dallas,Texas
+232,2023-01-06,Customer 1008,Shoes,Footwear,3,142.0,72.35,Plano,Texas
+233,2023-04-02,Customer 1019,Socks,Apparel,2,27.0,21.17,Houston,Texas
+234,2023-05-14,Customer 1002,Jacket,Apparel,3,103.0,68.59,Austin,Texas
+235,2023-01-12,Customer 1011,Socks,Apparel,4,125.0,78.95,Houston,Texas
+236,2023-04-10,Customer 1012,Watch,Accessories,5,141.0,84.42,Houston,Texas
+237,2023-05-26,Customer 1018,Watch,Accessories,3,63.0,42.0,Plano,Texas
+238,2023-02-04,Customer 1014,Jacket,Apparel,1,78.0,54.22,Plano,Texas
+239,2023-01-24,Customer 1019,Shirt,Apparel,1,113.0,89.07,San Antonio,Texas
+240,2023-06-01,Customer 1017,Watch,Accessories,4,127.0,92.75,San Antonio,Texas
+241,2023-03-07,Customer 1014,Shirt,Apparel,1,136.0,84.14,Austin,Texas
+242,2023-05-05,Customer 1011,Jeans,Apparel,2,134.0,78.41,San Antonio,Texas
+243,2023-04-09,Customer 1007,Shoes,Footwear,2,59.0,44.3,Plano,Texas
+244,2023-04-29,Customer 1004,Bag,Accessories,4,33.0,26.12,Dallas,Texas
+245,2023-05-05,Customer 1014,Watch,Accessories,1,81.0,42.87,Plano,Texas
+246,2023-05-25,Customer 1001,Jacket,Apparel,4,149.0,78.76,Houston,Texas
+247,2023-01-31,Customer 1010,Shoes,Footwear,5,64.0,36.55,Plano,Texas
+248,2023-04-04,Customer 1008,Jeans,Apparel,2,112.0,67.32,Austin,Texas
+249,2023-01-01,Customer 1019,Shirt,Apparel,4,27.0,18.5,Plano,Texas
+250,2023-02-13,Customer 1014,Bag,Accessories,3,68.0,51.22,Houston,Texas
+251,2023-02-06,Customer 1019,Socks,Apparel,3,133.0,105.87,San Antonio,Texas
+252,2023-02-28,Customer 1004,Jeans,Apparel,1,138.0,78.3,Plano,Texas
+253,2023-02-12,Customer 1001,Shirt,Apparel,3,31.0,16.88,Houston,Texas
+254,2023-06-20,Customer 1017,Shirt,Apparel,5,58.0,36.91,Dallas,Texas
+255,2023-02-21,Customer 1015,Socks,Apparel,4,147.0,79.35,San Antonio,Texas
+256,2023-03-26,Customer 1000,Jeans,Apparel,4,138.0,75.72,Dallas,Texas
+257,2023-02-24,Customer 1010,Socks,Apparel,5,105.0,60.54,Plano,Texas
+258,2023-04-23,Customer 1011,Jeans,Apparel,2,45.0,34.23,Dallas,Texas
+259,2023-01-31,Customer 1015,Shoes,Footwear,4,52.0,35.37,Houston,Texas
+260,2023-03-04,Customer 1008,Jacket,Apparel,5,124.0,65.97,Plano,Texas
+261,2023-03-18,Customer 1008,Shirt,Apparel,1,32.0,23.51,Houston,Texas
+262,2023-05-12,Customer 1005,Shoes,Footwear,2,144.0,105.06,San Antonio,Texas
+263,2023-03-16,Customer 1000,Shoes,Footwear,2,42.0,26.49,Dallas,Texas
+264,2023-05-23,Customer 1018,Jacket,Apparel,5,84.0,51.23,Houston,Texas
+265,2023-02-04,Customer 1011,Bag,Accessories,1,68.0,45.13,Plano,Texas
+266,2023-03-15,Customer 1001,Jacket,Apparel,3,118.0,64.96,Dallas,Texas
+267,2023-02-17,Customer 1001,Jacket,Apparel,3,104.0,78.94,Houston,Texas
+268,2023-02-17,Customer 1004,Jacket,Apparel,5,31.0,16.89,San Antonio,Texas
+269,2023-03-28,Customer 1005,Socks,Apparel,4,34.0,21.02,San Antonio,Texas
+270,2023-01-21,Customer 1010,Jacket,Apparel,4,142.0,93.2,Dallas,Texas
+271,2023-02-20,Customer 1014,Socks,Apparel,4,44.0,30.64,Plano,Texas
+272,2023-05-05,Customer 1003,Bag,Accessories,5,38.0,20.16,Plano,Texas
+273,2023-04-16,Customer 1003,Watch,Accessories,3,54.0,36.41,San Antonio,Texas
+274,2023-03-30,Customer 1010,Jacket,Apparel,2,96.0,59.91,Dallas,Texas
+275,2023-03-12,Customer 1016,Socks,Apparel,2,58.0,38.14,San Antonio,Texas
+276,2023-04-28,Customer 1006,Jeans,Apparel,2,55.0,34.5,Plano,Texas
+277,2023-02-16,Customer 1012,Jacket,Apparel,4,139.0,91.46,Houston,Texas
+278,2023-01-10,Customer 1009,Socks,Apparel,4,45.0,25.36,Plano,Texas
+279,2023-06-01,Customer 1018,Shirt,Apparel,3,56.0,33.07,Dallas,Texas
+280,2023-06-13,Customer 1009,Bag,Accessories,2,108.0,57.1,San Antonio,Texas
+281,2023-06-10,Customer 1016,Shirt,Apparel,5,68.0,49.03,Dallas,Texas
+282,2023-03-19,Customer 1012,Jacket,Apparel,3,30.0,17.09,Plano,Texas
+283,2023-01-07,Customer 1017,Watch,Accessories,1,21.0,12.23,Houston,Texas
+284,2023-01-19,Customer 1003,Shoes,Footwear,5,43.0,23.16,Dallas,Texas
+285,2023-04-07,Customer 1003,Jeans,Apparel,5,55.0,28.91,Dallas,Texas
+286,2023-01-13,Customer 1016,Shoes,Footwear,1,142.0,85.64,Houston,Texas
+287,2023-06-09,Customer 1007,Bag,Accessories,4,24.0,12.5,Dallas,Texas
+288,2023-01-03,Customer 1005,Jacket,Apparel,3,63.0,37.63,Dallas,Texas
+289,2023-04-08,Customer 1019,Jeans,Apparel,2,121.0,80.75,San Antonio,Texas
+290,2023-01-31,Customer 1014,Jacket,Apparel,2,55.0,43.37,San Antonio,Texas
+291,2023-05-25,Customer 1015,Shirt,Apparel,1,74.0,53.79,Dallas,Texas
+292,2023-04-02,Customer 1018,Bag,Accessories,3,49.0,27.95,San Antonio,Texas
+293,2023-03-06,Customer 1019,Jacket,Apparel,4,123.0,89.86,Plano,Texas
+294,2023-05-22,Customer 1003,Jacket,Apparel,1,35.0,22.82,Dallas,Texas
+295,2023-01-02,Customer 1008,Shirt,Apparel,5,85.0,52.21,Dallas,Texas
+296,2023-05-30,Customer 1010,Shirt,Apparel,3,74.0,40.59,Austin,Texas
+297,2023-02-11,Customer 1005,Socks,Apparel,5,31.0,24.15,San Antonio,Texas
+298,2023-06-29,Customer 1013,Jeans,Apparel,3,86.0,63.38,Plano,Texas
+299,2023-06-12,Customer 1017,Shirt,Apparel,3,85.0,46.42,Plano,Texas
+300,2023-01-25,Customer 1000,Jacket,Apparel,2,29.0,21.66,San Antonio,Texas
+301,2023-05-14,Customer 1012,Bag,Accessories,5,150.0,117.88,Houston,Texas
+302,2023-06-22,Customer 1011,Watch,Accessories,5,44.0,25.07,Dallas,Texas
+303,2023-06-09,Customer 1010,Bag,Accessories,4,79.0,59.68,Plano,Texas
+304,2023-06-11,Customer 1009,Jacket,Apparel,4,50.0,25.92,Dallas,Texas
+305,2023-03-24,Customer 1008,Shirt,Apparel,3,75.0,44.19,Dallas,Texas
+306,2023-05-24,Customer 1000,Shoes,Footwear,1,134.0,74.15,Plano,Texas
+307,2023-02-21,Customer 1019,Bag,Accessories,1,120.0,82.15,San Antonio,Texas
+308,2023-03-03,Customer 1002,Bag,Accessories,2,82.0,60.49,San Antonio,Texas
+309,2023-03-27,Customer 1004,Socks,Apparel,4,33.0,18.25,Austin,Texas
+310,2023-02-27,Customer 1006,Jacket,Apparel,3,98.0,66.12,Dallas,Texas
+311,2023-06-09,Customer 1003,Watch,Accessories,5,101.0,52.46,Houston,Texas
+312,2023-04-27,Customer 1003,Shirt,Apparel,1,71.0,41.17,Austin,Texas
+313,2023-06-29,Customer 1005,Jeans,Apparel,4,101.0,64.92,San Antonio,Texas
+314,2023-01-17,Customer 1008,Jeans,Apparel,2,132.0,103.83,Plano,Texas
+315,2023-04-07,Customer 1009,Shirt,Apparel,2,79.0,41.31,Houston,Texas
+316,2023-02-03,Customer 1007,Jeans,Apparel,4,40.0,29.9,Dallas,Texas
+317,2023-03-10,Customer 1011,Shoes,Footwear,1,106.0,69.49,Houston,Texas
+318,2023-04-19,Customer 1018,Shirt,Apparel,5,106.0,75.78,Plano,Texas
+319,2023-06-08,Customer 1013,Shoes,Footwear,5,40.0,24.65,Houston,Texas
+320,2023-01-05,Customer 1004,Bag,Accessories,4,47.0,28.5,Austin,Texas
+321,2023-04-14,Customer 1008,Jacket,Apparel,4,100.0,58.86,Dallas,Texas
+322,2023-03-09,Customer 1013,Jeans,Apparel,3,68.0,39.21,Dallas,Texas
+323,2023-04-24,Customer 1009,Shirt,Apparel,1,141.0,90.73,Houston,Texas
+324,2023-04-28,Customer 1012,Watch,Accessories,4,110.0,87.34,San Antonio,Texas
+325,2023-01-17,Customer 1007,Watch,Accessories,2,30.0,15.39,San Antonio,Texas
+326,2023-04-24,Customer 1019,Jeans,Apparel,1,78.0,51.87,Houston,Texas
+327,2023-04-23,Customer 1002,Jacket,Apparel,5,51.0,33.09,San Antonio,Texas
+328,2023-05-29,Customer 1007,Jeans,Apparel,4,37.0,25.56,Houston,Texas
+329,2023-03-30,Customer 1012,Jacket,Apparel,3,105.0,76.23,San Antonio,Texas
+330,2023-05-31,Customer 1011,Jeans,Apparel,5,46.0,36.32,Dallas,Texas
+331,2023-04-28,Customer 1018,Watch,Accessories,5,116.0,75.69,Austin,Texas
+332,2023-04-21,Customer 1007,Socks,Apparel,4,130.0,99.21,Plano,Texas
+333,2023-05-12,Customer 1007,Jeans,Apparel,1,127.0,91.18,Dallas,Texas
+334,2023-02-15,Customer 1006,Shoes,Footwear,2,29.0,20.96,Dallas,Texas
+335,2023-06-13,Customer 1009,Shoes,Footwear,2,131.0,96.3,Austin,Texas
+336,2023-05-01,Customer 1019,Jeans,Apparel,4,33.0,23.92,Dallas,Texas
+337,2023-04-21,Customer 1003,Shoes,Footwear,3,120.0,64.49,Austin,Texas
+338,2023-02-23,Customer 1007,Bag,Accessories,3,56.0,39.14,Dallas,Texas
+339,2023-02-26,Customer 1012,Socks,Apparel,2,57.0,31.35,Plano,Texas
+340,2023-03-21,Customer 1019,Bag,Accessories,4,33.0,23.66,Houston,Texas
+341,2023-03-04,Customer 1013,Bag,Accessories,2,79.0,47.13,Dallas,Texas
+342,2023-04-27,Customer 1003,Shoes,Footwear,4,49.0,38.93,Plano,Texas
+343,2023-05-26,Customer 1019,Shoes,Footwear,4,113.0,67.63,Plano,Texas
+344,2023-04-28,Customer 1012,Shirt,Apparel,4,66.0,52.77,Austin,Texas
+345,2023-02-16,Customer 1013,Shirt,Apparel,4,66.0,35.34,Houston,Texas
+346,2023-03-02,Customer 1009,Bag,Accessories,1,109.0,73.72,Austin,Texas
+347,2023-04-28,Customer 1012,Jeans,Apparel,5,126.0,63.91,Austin,Texas
+348,2023-05-27,Customer 1009,Jacket,Apparel,3,128.0,94.05,Houston,Texas
+349,2023-06-14,Customer 1019,Shoes,Footwear,3,88.0,66.23,Dallas,Texas
+350,2023-03-31,Customer 1003,Shirt,Apparel,2,24.0,17.08,Plano,Texas
+351,2023-04-10,Customer 1005,Jacket,Apparel,3,148.0,108.64,Dallas,Texas
+352,2023-06-01,Customer 1003,Shirt,Apparel,4,76.0,55.13,San Antonio,Texas
+353,2023-06-12,Customer 1013,Watch,Accessories,2,105.0,60.74,San Antonio,Texas
+354,2023-02-14,Customer 1003,Jeans,Apparel,1,89.0,46.25,Dallas,Texas
+355,2023-06-27,Customer 1000,Shoes,Footwear,2,126.0,68.26,San Antonio,Texas
+356,2023-02-26,Customer 1004,Shoes,Footwear,3,139.0,80.35,Dallas,Texas
+357,2023-06-14,Customer 1016,Jeans,Apparel,2,88.0,61.27,Plano,Texas
+358,2023-06-18,Customer 1000,Shoes,Footwear,1,104.0,70.99,Austin,Texas
+359,2023-03-12,Customer 1000,Jeans,Apparel,4,146.0,83.99,Plano,Texas
+360,2023-02-12,Customer 1008,Shirt,Apparel,5,117.0,72.68,Plano,Texas
+361,2023-04-08,Customer 1000,Socks,Apparel,1,117.0,61.37,Houston,Texas
+362,2023-02-26,Customer 1001,Jeans,Apparel,5,21.0,14.68,Plano,Texas
+363,2023-03-17,Customer 1014,Jeans,Apparel,3,144.0,104.37,Dallas,Texas
+364,2023-03-04,Customer 1016,Jacket,Apparel,3,118.0,60.84,San Antonio,Texas
+365,2023-04-26,Customer 1014,Socks,Apparel,4,146.0,106.22,Plano,Texas
+366,2023-06-17,Customer 1016,Watch,Accessories,4,33.0,18.86,San Antonio,Texas
+367,2023-04-07,Customer 1009,Socks,Apparel,1,150.0,115.91,Dallas,Texas
+368,2023-06-27,Customer 1010,Bag,Accessories,4,42.0,31.36,Austin,Texas
+369,2023-03-15,Customer 1007,Shoes,Footwear,3,30.0,16.83,Plano,Texas
+370,2023-05-17,Customer 1014,Bag,Accessories,1,104.0,61.75,San Antonio,Texas
+371,2023-01-12,Customer 1001,Socks,Apparel,2,79.0,55.99,Dallas,Texas
+372,2023-04-17,Customer 1007,Socks,Apparel,5,22.0,16.92,Austin,Texas
+373,2023-01-08,Customer 1004,Jacket,Apparel,4,148.0,75.48,Houston,Texas
+374,2023-04-20,Customer 1018,Bag,Accessories,5,23.0,17.01,Austin,Texas
+375,2023-05-09,Customer 1012,Shirt,Apparel,3,65.0,38.73,San Antonio,Texas
+376,2023-06-05,Customer 1005,Socks,Apparel,5,32.0,19.1,Plano,Texas
+377,2023-04-07,Customer 1003,Jeans,Apparel,3,88.0,58.78,Austin,Texas
+378,2023-01-09,Customer 1019,Shirt,Apparel,2,145.0,88.99,San Antonio,Texas
+379,2023-05-19,Customer 1001,Jacket,Apparel,3,79.0,46.95,Dallas,Texas
+380,2023-01-30,Customer 1015,Socks,Apparel,4,150.0,114.59,San Antonio,Texas
+381,2023-06-24,Customer 1017,Watch,Accessories,2,53.0,32.03,San Antonio,Texas
+382,2023-05-30,Customer 1016,Jeans,Apparel,1,42.0,28.82,Austin,Texas
+383,2023-06-12,Customer 1000,Watch,Accessories,3,113.0,89.69,San Antonio,Texas
+384,2023-06-05,Customer 1014,Bag,Accessories,2,85.0,50.53,Plano,Texas
+385,2023-03-28,Customer 1002,Socks,Apparel,4,143.0,114.05,Houston,Texas
+386,2023-01-21,Customer 1002,Bag,Accessories,1,66.0,39.05,Dallas,Texas
+387,2023-05-25,Customer 1006,Shirt,Apparel,5,65.0,47.31,Plano,Texas
+388,2023-04-25,Customer 1000,Shirt,Apparel,4,96.0,73.89,Austin,Texas
+389,2023-02-15,Customer 1005,Jacket,Apparel,3,110.0,67.86,Austin,Texas
+390,2023-05-27,Customer 1013,Jacket,Apparel,5,91.0,49.02,San Antonio,Texas
+391,2023-01-14,Customer 1005,Shoes,Footwear,1,44.0,27.56,San Antonio,Texas
+392,2023-06-19,Customer 1018,Socks,Apparel,3,129.0,99.75,Houston,Texas
+393,2023-03-14,Customer 1018,Shirt,Apparel,4,90.0,61.78,San Antonio,Texas
+394,2023-01-30,Customer 1008,Socks,Apparel,5,80.0,41.64,San Antonio,Texas
+395,2023-03-19,Customer 1008,Shirt,Apparel,1,72.0,42.42,San Antonio,Texas
+396,2023-05-05,Customer 1013,Bag,Accessories,4,27.0,20.61,Austin,Texas
+397,2023-06-07,Customer 1011,Jacket,Apparel,5,81.0,59.81,Houston,Texas
+398,2023-04-11,Customer 1002,Shoes,Footwear,2,88.0,50.66,Austin,Texas
+399,2023-03-06,Customer 1007,Bag,Accessories,5,87.0,66.17,Houston,Texas
+400,2023-05-27,Customer 1019,Watch,Accessories,4,66.0,35.72,San Antonio,Texas
+401,2023-06-06,Customer 1018,Watch,Accessories,3,57.0,38.62,Plano,Texas
+402,2023-06-22,Customer 1002,Bag,Accessories,4,23.0,14.15,San Antonio,Texas
+403,2023-01-01,Customer 1007,Jacket,Apparel,2,110.0,79.54,San Antonio,Texas
+404,2023-01-27,Customer 1007,Socks,Apparel,2,80.0,51.34,Houston,Texas
+405,2023-04-09,Customer 1007,Shoes,Footwear,2,112.0,71.89,San Antonio,Texas
+406,2023-05-21,Customer 1005,Jacket,Apparel,5,103.0,57.9,Austin,Texas
+407,2023-02-08,Customer 1016,Shirt,Apparel,3,143.0,83.72,Houston,Texas
+408,2023-01-09,Customer 1004,Jacket,Apparel,3,73.0,56.91,Dallas,Texas
+409,2023-02-28,Customer 1006,Shirt,Apparel,1,107.0,70.56,Houston,Texas
+410,2023-05-19,Customer 1012,Socks,Apparel,5,30.0,15.4,Houston,Texas
+411,2023-03-13,Customer 1007,Socks,Apparel,1,127.0,91.31,Plano,Texas
+412,2023-06-10,Customer 1012,Watch,Accessories,5,31.0,21.77,Plano,Texas
+413,2023-06-23,Customer 1012,Jeans,Apparel,2,27.0,20.49,San Antonio,Texas
+414,2023-03-09,Customer 1000,Socks,Apparel,4,101.0,58.28,Houston,Texas
+415,2023-03-17,Customer 1018,Socks,Apparel,2,103.0,79.32,San Antonio,Texas
+416,2023-02-20,Customer 1010,Socks,Apparel,2,48.0,33.77,Houston,Texas
+417,2023-05-01,Customer 1006,Watch,Accessories,2,70.0,54.18,Dallas,Texas
+418,2023-06-15,Customer 1002,Bag,Accessories,4,136.0,104.82,Austin,Texas
+419,2023-03-06,Customer 1012,Jacket,Apparel,1,31.0,18.24,Dallas,Texas
+420,2023-06-02,Customer 1005,Socks,Apparel,5,81.0,54.08,Dallas,Texas
+421,2023-03-14,Customer 1005,Bag,Accessories,3,118.0,61.75,Plano,Texas
+422,2023-06-05,Customer 1011,Jeans,Apparel,4,117.0,71.99,San Antonio,Texas
+423,2023-02-26,Customer 1003,Socks,Apparel,3,67.0,33.75,Houston,Texas
+424,2023-02-25,Customer 1000,Bag,Accessories,2,26.0,14.11,Houston,Texas
+425,2023-04-23,Customer 1005,Shirt,Apparel,3,145.0,98.43,San Antonio,Texas
+426,2023-04-23,Customer 1012,Watch,Accessories,4,84.0,44.65,Dallas,Texas
+427,2023-01-04,Customer 1013,Jeans,Apparel,3,86.0,67.87,Plano,Texas
+428,2023-02-28,Customer 1014,Jacket,Apparel,3,70.0,35.49,Austin,Texas
+429,2023-06-19,Customer 1004,Watch,Accessories,5,141.0,75.41,Dallas,Texas
+430,2023-02-28,Customer 1014,Shoes,Footwear,2,132.0,69.49,San Antonio,Texas
+431,2023-01-22,Customer 1003,Jacket,Apparel,1,128.0,101.28,San Antonio,Texas
+432,2023-04-19,Customer 1018,Watch,Accessories,1,68.0,44.86,Plano,Texas
+433,2023-03-26,Customer 1013,Shoes,Footwear,2,128.0,71.47,Dallas,Texas
+434,2023-03-09,Customer 1018,Socks,Apparel,5,63.0,47.2,San Antonio,Texas
+435,2023-06-28,Customer 1016,Shirt,Apparel,5,130.0,96.85,San Antonio,Texas
+436,2023-06-01,Customer 1018,Shoes,Footwear,2,123.0,73.52,San Antonio,Texas
+437,2023-06-13,Customer 1018,Watch,Accessories,4,24.0,15.42,Plano,Texas
+438,2023-06-22,Customer 1014,Socks,Apparel,5,117.0,83.85,Austin,Texas
+439,2023-01-20,Customer 1008,Bag,Accessories,3,24.0,17.72,Plano,Texas
+440,2023-05-27,Customer 1015,Jacket,Apparel,4,89.0,48.47,Dallas,Texas
+441,2023-04-12,Customer 1010,Bag,Accessories,4,115.0,74.47,San Antonio,Texas
+442,2023-06-24,Customer 1014,Shirt,Apparel,3,101.0,63.94,Austin,Texas
+443,2023-03-13,Customer 1019,Bag,Accessories,3,67.0,53.52,Plano,Texas
+444,2023-03-13,Customer 1018,Watch,Accessories,1,132.0,77.82,Houston,Texas
+445,2023-01-31,Customer 1015,Socks,Apparel,3,88.0,57.48,Austin,Texas
+446,2023-02-11,Customer 1015,Jeans,Apparel,3,86.0,60.87,Plano,Texas
+447,2023-02-26,Customer 1014,Bag,Accessories,1,54.0,30.41,Dallas,Texas
+448,2023-03-12,Customer 1006,Shoes,Footwear,2,27.0,21.56,Austin,Texas
+449,2023-05-23,Customer 1004,Shoes,Footwear,4,44.0,30.35,Houston,Texas
+450,2023-01-01,Customer 1003,Watch,Accessories,4,147.0,109.18,Plano,Texas
+451,2023-05-08,Customer 1003,Shoes,Footwear,1,53.0,27.73,Dallas,Texas
+452,2023-06-22,Customer 1001,Jacket,Apparel,3,91.0,48.53,Austin,Texas
+453,2023-03-07,Customer 1007,Watch,Accessories,3,142.0,108.02,Plano,Texas
+454,2023-03-07,Customer 1001,Shirt,Apparel,2,143.0,101.83,Dallas,Texas
+455,2023-05-16,Customer 1013,Jeans,Apparel,4,53.0,30.97,Plano,Texas
+456,2023-05-25,Customer 1008,Jacket,Apparel,5,72.0,54.19,Austin,Texas
+457,2023-01-19,Customer 1016,Jacket,Apparel,5,40.0,22.58,Plano,Texas
+458,2023-06-09,Customer 1017,Socks,Apparel,2,73.0,38.07,Dallas,Texas
+459,2023-06-01,Customer 1014,Jacket,Apparel,4,129.0,96.33,Dallas,Texas
+460,2023-01-12,Customer 1013,Jacket,Apparel,5,78.0,57.14,San Antonio,Texas
+461,2023-02-18,Customer 1014,Jeans,Apparel,2,146.0,75.38,Dallas,Texas
+462,2023-04-06,Customer 1005,Shirt,Apparel,2,112.0,57.57,Houston,Texas
+463,2023-03-05,Customer 1010,Shirt,Apparel,1,88.0,68.83,Dallas,Texas
+464,2023-02-20,Customer 1012,Shirt,Apparel,3,119.0,91.89,Houston,Texas
+465,2023-04-30,Customer 1009,Shoes,Footwear,4,79.0,54.5,Houston,Texas
+466,2023-01-24,Customer 1011,Socks,Apparel,5,32.0,17.75,Plano,Texas
+467,2023-01-21,Customer 1019,Shoes,Footwear,4,44.0,25.93,Houston,Texas
+468,2023-04-11,Customer 1015,Shoes,Footwear,4,56.0,28.81,Austin,Texas
+469,2023-05-26,Customer 1013,Socks,Apparel,1,118.0,75.2,San Antonio,Texas
+470,2023-01-13,Customer 1017,Shoes,Footwear,1,143.0,108.35,San Antonio,Texas
+471,2023-05-17,Customer 1008,Watch,Accessories,4,50.0,35.79,Plano,Texas
+472,2023-06-22,Customer 1012,Jacket,Apparel,1,119.0,83.7,Austin,Texas
+473,2023-03-11,Customer 1011,Jeans,Apparel,4,37.0,26.68,Houston,Texas
+474,2023-04-10,Customer 1010,Bag,Accessories,4,73.0,40.86,Plano,Texas
+475,2023-05-18,Customer 1011,Shoes,Footwear,1,68.0,36.27,Plano,Texas
+476,2023-04-12,Customer 1001,Socks,Apparel,2,65.0,37.22,Plano,Texas
+477,2023-01-17,Customer 1011,Jacket,Apparel,4,150.0,93.19,Houston,Texas
+478,2023-03-06,Customer 1019,Jacket,Apparel,5,141.0,92.46,San Antonio,Texas
+479,2023-01-27,Customer 1009,Socks,Apparel,1,123.0,66.35,San Antonio,Texas
+480,2023-01-07,Customer 1019,Shoes,Footwear,2,52.0,37.53,Houston,Texas
+481,2023-05-15,Customer 1003,Shirt,Apparel,3,136.0,94.38,San Antonio,Texas
+482,2023-02-14,Customer 1003,Socks,Apparel,1,94.0,70.4,Austin,Texas
+483,2023-03-20,Customer 1011,Shoes,Footwear,1,117.0,79.68,Plano,Texas
+484,2023-05-13,Customer 1019,Jeans,Apparel,2,123.0,96.29,San Antonio,Texas
+485,2023-02-28,Customer 1011,Jeans,Apparel,4,41.0,25.0,Austin,Texas
+486,2023-02-14,Customer 1018,Socks,Apparel,1,45.0,33.94,Dallas,Texas
+487,2023-04-05,Customer 1010,Shoes,Footwear,5,123.0,94.95,Plano,Texas
+488,2023-02-26,Customer 1014,Shoes,Footwear,1,71.0,42.69,Houston,Texas
+489,2023-01-05,Customer 1019,Socks,Apparel,2,45.0,24.49,Houston,Texas
+490,2023-06-15,Customer 1001,Bag,Accessories,3,73.0,45.6,Houston,Texas
+491,2023-05-14,Customer 1005,Socks,Apparel,2,40.0,31.55,Plano,Texas
+492,2023-01-03,Customer 1005,Jacket,Apparel,2,65.0,40.94,Dallas,Texas
+493,2023-03-16,Customer 1012,Watch,Accessories,5,127.0,95.64,San Antonio,Texas
+494,2023-03-09,Customer 1002,Jeans,Apparel,4,89.0,47.41,Austin,Texas
+495,2023-03-30,Customer 1017,Bag,Accessories,2,95.0,54.9,Austin,Texas
+496,2023-01-29,Customer 1001,Shoes,Footwear,2,23.0,17.22,Dallas,Texas
+497,2023-01-08,Customer 1012,Shirt,Apparel,3,99.0,78.53,Austin,Texas
+498,2023-03-25,Customer 1017,Jeans,Apparel,1,58.0,42.6,San Antonio,Texas
+499,2023-06-05,Customer 1009,Jacket,Apparel,4,93.0,68.39,Plano,Texas
+500,2023-06-25,Customer 1004,Socks,Apparel,5,123.0,92.79,Austin,Texas
