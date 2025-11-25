@@ -1,0 +1,90 @@
+{
+  "info": {
+    "name": "Airline API Testing Collection",
+    "_postman_id": "airline-api-collection-demo",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Get Flights",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://api.aviationstack.com/v1/flights?access_key=API_KEY_HERE",
+          "protocol": "http",
+          "host": [
+            "api",
+            "aviationstack",
+            "com"
+          ],
+          "path": [
+            "v1",
+            "flights"
+          ],
+          "query": [
+            {
+              "key": "access_key",
+              "value": "API_KEY_HERE",
+              "description": "Placeholder API key"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Get Airlines",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://api.aviationstack.com/v1/airlines?access_key=API_KEY_HERE",
+          "protocol": "http",
+          "host": [
+            "api",
+            "aviationstack",
+            "com"
+          ],
+          "path": [
+            "v1",
+            "airlines"
+          ],
+          "query": [
+            {
+              "key": "access_key",
+              "value": "API_KEY_HERE",
+              "description": "Placeholder API key"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Get Airports",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://api.aviationstack.com/v1/airports?access_key=API_KEY_HERE",
+          "protocol": "http",
+          "host": [
+            "api",
+            "aviationstack",
+            "com"
+          ],
+          "path": [
+            "v1",
+            "airports"
+          ],
+          "query": [
+            {
+              "key": "access_key",
+              "value": "API_KEY_HERE",
+              "description": "Placeholder API key"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

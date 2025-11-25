@@ -1,0 +1,54 @@
+{
+  "pagination": {
+    "limit": 10,
+    "offset": 0,
+    "count": 2,
+    "total": 2000
+  },
+  "data": [
+    {
+      "flight_date": "2023-05-12",
+      "flight_status": "active",
+      "airline": {
+        "name": "American Airlines",
+        "iata": "AA"
+      },
+      "flight": {
+        "number": "100",
+        "iata": "AA100"
+      },
+      "departure": {
+        "airport": "Dallas/Fort Worth International",
+        "iata": "DFW",
+        "scheduled": "2023-05-12T10:00:00+00:00"
+      },
+      "arrival": {
+        "airport": "John F Kennedy International",
+        "iata": "JFK",
+        "scheduled": "2023-05-12T14:05:00+00:00"
+      }
+    },
+    {
+      "flight_date": "2023-05-12",
+      "flight_status": "landed",
+      "airline": {
+        "name": "Delta Air Lines",
+        "iata": "DL"
+      },
+      "flight": {
+        "number": "200",
+        "iata": "DL200"
+      },
+      "departure": {
+        "airport": "Houston George Bush Intercontinental",
+        "iata": "IAH",
+        "scheduled": "2023-05-12T08:30:00+00:00"
+      },
+      "arrival": {
+        "airport": "Hartsfield Jackson Atlanta International",
+        "iata": "ATL",
+        "scheduled": "2023-05-12T11:20:00+00:00"
+      }
+    }
+  ]
+}
